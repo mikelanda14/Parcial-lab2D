@@ -1,0 +1,25 @@
+C:\Users\miguel.landaeta\source\repos\PracticaExamen\Entidades\bin\Debug\Entidades.dll
+C:\Users\miguel.landaeta\source\repos\PracticaExamen\Entidades\bin\Debug\Entidades.pdb
+C:\Users\miguel.landaeta\source\repos\PracticaExamen\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\miguel.landaeta\source\repos\PracticaExamen\Entidades\obj\Debug\Entidades.dll
+C:\Users\miguel.landaeta\source\repos\PracticaExamen\Entidades\obj\Debug\Entidades.pdb
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia\Entidades\bin\Debug\Entidades.dll
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia\Entidades\obj\Debug\Entidades.dll
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia\Entidades\obj\Debug\Entidades.pdb
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\Entidades\bin\Debug\Entidades.dll
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\Entidades\obj\Debug\Entidades.dll
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\Entidades\obj\Debug\Entidades.pdb
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\Entidades\bin\Debug\Entidades.dll
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\Entidades\obj\Debug\Entidades.dll
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\Entidades\bin\Debug\Entidades.dll
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\Entidades\obj\Debug\Entidades.dll
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\Entidades\obj\Debug\Entidades.pdb

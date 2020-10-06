@@ -1,0 +1,94 @@
+C:\Users\miguel.landaeta\source\repos\PracticaExamen\FrmLogin\bin\Debug\FrmLogin.exe.config
+C:\Users\miguel.landaeta\source\repos\PracticaExamen\FrmLogin\bin\Debug\FrmLogin.exe
+C:\Users\miguel.landaeta\source\repos\PracticaExamen\FrmLogin\bin\Debug\FrmLogin.pdb
+C:\Users\miguel.landaeta\source\repos\PracticaExamen\FrmLogin\obj\Debug\FrmLogin.csprojAssemblyReference.cache
+C:\Users\miguel.landaeta\source\repos\PracticaExamen\FrmLogin\obj\Debug\FrmLogin.Properties.Resources.resources
+C:\Users\miguel.landaeta\source\repos\PracticaExamen\FrmLogin\obj\Debug\FrmLogin.csproj.GenerateResource.cache
+C:\Users\miguel.landaeta\source\repos\PracticaExamen\FrmLogin\obj\Debug\FrmLogin.exe
+C:\Users\miguel.landaeta\source\repos\PracticaExamen\FrmLogin\obj\Debug\FrmLogin.pdb
+C:\Users\miguel.landaeta\source\repos\PracticaExamen\FrmLogin\obj\Debug\FrmLogin.FrmLogin.resources
+C:\Users\miguel.landaeta\source\repos\PracticaExamen\FrmLogin\obj\Debug\FrmLogin.FrmPrincipal.resources
+C:\Users\miguel.landaeta\source\repos\PracticaExamen\FrmLogin\bin\Debug\Entidades.dll
+C:\Users\miguel.landaeta\source\repos\PracticaExamen\FrmLogin\bin\Debug\Entidades.pdb
+C:\Users\miguel.landaeta\source\repos\PracticaExamen\FrmLogin\obj\Debug\FrmLogin.csproj.CopyComplete
+C:\Users\miguel.landaeta\source\repos\PracticaExamen\FrmLogin\obj\Debug\FrmLogin.FrmAbmProducto.resources
+C:\Users\miguel.landaeta\source\repos\PracticaExamen\FrmLogin\obj\Debug\FrmLogin.Reporte.resources
+C:\Users\miguel.landaeta\source\repos\PracticaExamen\FrmLogin\obj\Debug\FrmLogin.FrmACliente.resources
+C:\Users\miguel.landaeta\source\repos\PracticaExamen\FrmLogin\obj\Debug\FrmLogin.FrnComprasEmpleados.resources
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia\FrmLogin\bin\Debug\FrmLogin.exe.config
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia\FrmLogin\bin\Debug\FrmLogin.exe
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia\FrmLogin\bin\Debug\FrmLogin.pdb
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia\FrmLogin\bin\Debug\Entidades.dll
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia\FrmLogin\bin\Debug\Entidades.pdb
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia\FrmLogin\obj\Debug\FrmLogin.csprojAssemblyReference.cache
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia\FrmLogin\obj\Debug\FrmLogin.FrmAbmProducto.resources
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia\FrmLogin\obj\Debug\FrmLogin.FrmLogin.resources
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia\FrmLogin\obj\Debug\FrmLogin.FrmPrincipal.resources
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia\FrmLogin\obj\Debug\FrmLogin.FrnComprasEmpleados.resources
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia\FrmLogin\obj\Debug\FrmLogin.Properties.Resources.resources
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia\FrmLogin\obj\Debug\FrmLogin.Reporte.resources
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia\FrmLogin\obj\Debug\FrmLogin.csproj.GenerateResource.cache
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia\FrmLogin\obj\Debug\FrmLogin.csproj.CopyComplete
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia\FrmLogin\obj\Debug\FrmLogin.exe
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia\FrmLogin\obj\Debug\FrmLogin.pdb
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia\FrmLogin\obj\Debug\FrmLogin.FrmACliente.resources
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\FrmLogin\bin\Debug\FrmLogin.exe.config
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\FrmLogin\bin\Debug\FrmLogin.exe
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\FrmLogin\bin\Debug\FrmLogin.pdb
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\FrmLogin\bin\Debug\Entidades.dll
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\FrmLogin\bin\Debug\Entidades.pdb
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\FrmLogin\obj\Debug\FrmLogin.csprojAssemblyReference.cache
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\FrmLogin\obj\Debug\FrmLogin.FrmAbmProducto.resources
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\FrmLogin\obj\Debug\FrmLogin.FrmACliente.resources
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\FrmLogin\obj\Debug\FrmLogin.FrmLogin.resources
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\FrmLogin\obj\Debug\FrmLogin.FrmPrincipal.resources
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\FrmLogin\obj\Debug\FrmLogin.FrnComprasEmpleados.resources
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\FrmLogin\obj\Debug\FrmLogin.Properties.Resources.resources
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\FrmLogin\obj\Debug\FrmLogin.Reporte.resources
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\FrmLogin\obj\Debug\FrmLogin.csproj.GenerateResource.cache
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\FrmLogin\obj\Debug\FrmLogin.csproj.CopyComplete
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\FrmLogin\obj\Debug\FrmLogin.exe
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\FrmLogin\obj\Debug\FrmLogin.pdb
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\FrmLogin\bin\Debug\Resources\Cash Register Cha Ching-SoundBible.com-184076484.wav
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\FrmLogin\bin\Debug\Resources\donut_wor_icon.ico
+C:\Users\miguel.landaeta\source\repos\PracticaExamen - copia - copia\FrmLogin\bin\Debug\Resources\index.jpg
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\FrmLogin\bin\Debug\Resources\Cash Register Cha Ching-SoundBible.com-184076484.wav
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\FrmLogin\bin\Debug\Resources\donut_wor_icon.ico
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\FrmLogin\bin\Debug\Resources\index.jpg
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\FrmLogin\bin\Debug\FrmLogin.exe.config
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\FrmLogin\bin\Debug\FrmLogin.exe
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\FrmLogin\bin\Debug\FrmLogin.pdb
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\FrmLogin\bin\Debug\Entidades.dll
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\FrmLogin\bin\Debug\Entidades.pdb
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.csprojAssemblyReference.cache
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.FrmAbmProducto.resources
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.FrmACliente.resources
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.FrmLogin.resources
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.FrmPrincipal.resources
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.FrnComprasEmpleados.resources
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.Properties.Resources.resources
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.Reporte.resources
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.csproj.GenerateResource.cache
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.csproj.CopyComplete
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.exe
+C:\Users\miguel.landaeta\Desktop\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.pdb
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\FrmLogin\bin\Debug\Resources\Cash Register Cha Ching-SoundBible.com-184076484.wav
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\FrmLogin\bin\Debug\Resources\donut_wor_icon.ico
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\FrmLogin\bin\Debug\Resources\index.jpg
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\FrmLogin\bin\Debug\FrmLogin.exe.config
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\FrmLogin\bin\Debug\FrmLogin.exe
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\FrmLogin\bin\Debug\FrmLogin.pdb
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\FrmLogin\bin\Debug\Entidades.dll
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\FrmLogin\bin\Debug\Entidades.pdb
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.csprojAssemblyReference.cache
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.FrmAbmProducto.resources
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.FrmACliente.resources
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.FrmLogin.resources
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.FrmPrincipal.resources
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.FrnComprasEmpleados.resources
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.Properties.Resources.resources
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.Reporte.resources
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.csproj.GenerateResource.cache
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.csproj.CopyComplete
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.exe
+C:\Users\MARK4\Downloads\PPProgramacion-Lab2\PPProgramacion-Lab2\FrmLogin\obj\Debug\FrmLogin.pdb
