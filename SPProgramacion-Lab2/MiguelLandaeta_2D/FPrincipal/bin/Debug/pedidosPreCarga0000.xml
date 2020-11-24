@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?><ArrayOfPedido xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><Pedido><Descripcion>Promo1
+Promo1
+Promo2
+</Descripcion><NombreCliente>Borat</NombreCliente><NumeroPedido>0</NumeroPedido></Pedido><Pedido><Descripcion>Promo3
+Bebida dietetica
+Promo2
+</Descripcion><NombreCliente>Jerry</NombreCliente><NumeroPedido>1</NumeroPedido></Pedido><Pedido><Descripcion>Promo2
+Promo4
+Promo1
+Promo3
+</Descripcion><NombreCliente>Ana</NombreCliente><NumeroPedido>2</NumeroPedido></Pedido><Pedido><Descripcion>Promo1
+Promo2
+Promo4
+</Descripcion><NombreCliente>Lu</NombreCliente><NumeroPedido>3</NumeroPedido></Pedido><Pedido><Descripcion>Promo1
+Promo2
+PAPAS solas
+Bebida dietetica
+</Descripcion><NombreCliente>Tuta</NombreCliente><NumeroPedido>4</NumeroPedido></Pedido></ArrayOfPedido>

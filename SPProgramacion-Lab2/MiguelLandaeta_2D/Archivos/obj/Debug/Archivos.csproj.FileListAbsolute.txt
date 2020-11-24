@@ -1,0 +1,16 @@
+C:\Users\MARK4\source\repos\FPrincipal\Archivos\bin\Debug\Archivos.dll
+C:\Users\MARK4\source\repos\FPrincipal\Archivos\bin\Debug\Archivos.pdb
+C:\Users\MARK4\source\repos\FPrincipal\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\MARK4\source\repos\FPrincipal\Archivos\obj\Debug\Archivos.dll
+C:\Users\MARK4\source\repos\FPrincipal\Archivos\obj\Debug\Archivos.pdb
+C:\Users\MARK4\source\repos\FPrincipal\Archivos\bin\Debug\Exepciones.dll
+C:\Users\MARK4\source\repos\FPrincipal\Archivos\bin\Debug\Exepciones.pdb
+C:\Users\MARK4\source\repos\FPrincipal\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\MARK4\source\repos\MiguelLandaeta_2D\Archivos\bin\Debug\Archivos.dll
+C:\Users\MARK4\source\repos\MiguelLandaeta_2D\Archivos\bin\Debug\Archivos.pdb
+C:\Users\MARK4\source\repos\MiguelLandaeta_2D\Archivos\bin\Debug\Exepciones.dll
+C:\Users\MARK4\source\repos\MiguelLandaeta_2D\Archivos\bin\Debug\Exepciones.pdb
+C:\Users\MARK4\source\repos\MiguelLandaeta_2D\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\MARK4\source\repos\MiguelLandaeta_2D\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\MARK4\source\repos\MiguelLandaeta_2D\Archivos\obj\Debug\Archivos.dll
+C:\Users\MARK4\source\repos\MiguelLandaeta_2D\Archivos\obj\Debug\Archivos.pdb
